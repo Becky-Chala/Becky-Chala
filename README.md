@@ -1,6 +1,6 @@
 # Hi, I'm Bereket Chala 👋
 
-### Junior Developer | Flutter Learner | Data Science Enthusiast
+### Junior Developer | Data Science | Flutter Learner
 
 I'm an Information Systems graduate from Haramaya University with a strong interest in mobile app development, data science, and practical software solutions.  
 I am currently learning Flutter and Dart while also improving my data analysis and data science skills through hands-on projects.
